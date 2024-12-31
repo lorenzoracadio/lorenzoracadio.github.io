@@ -8,6 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://linkedin.com/in/renzo-racadio-rrn" target="_blank>View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
+footer: false
 plugins:
 - jekyll-remote-theme
 #google_analytics: UA-000000-0 # your Google Analytics tracking ID here
