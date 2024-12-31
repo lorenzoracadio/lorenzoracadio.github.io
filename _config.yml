@@ -1,13 +1,14 @@
 title: Lorenzo Racadio # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Experienced data analytics professional with 7 years across e-commerce, transport technology, and FMCG sectors, holding a Master’s in International Business from the University of International Business and Economics, Beijing.
   <br><br>
-  Second description 
+  Most recently served as the Business Intelligence Assistant Manager at Nivea Philippines, leading process optimization in sales, marketing, and supply chain data management.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://linkedin.com/in/renzo-racadio-rrn" target="_blank">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
+
 plugins:
 - jekyll-remote-theme
 #google_analytics: UA-000000-0 # your Google Analytics tracking ID here
