@@ -1,14 +1,14 @@
 title: Lorenzo Racadio # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  7 years of data analytics and operations experience in e-commerce, transport technology, and most recently FMCGs. Obtained a Master of Economics Degree in International Business from the University of International Business and Economics in Beijing, China.
+  Experienced data analytics professional with 7 years across e-commerce, transport technology, and FMCG sectors, holding a Master’s in International Business from the University of International Business and Economics, Beijing.
   <br><br>
-  Most recently served as the Business Intelligence Assistant Manager at Nivea Philippines (Beiersdorf) where I drove significant process improvements as regards processing sales, marketing, and supply chain data. 
+  Most recently served as the Business Intelligence Assistant Manager at Nivea Philippines, leading process optimization in sales, marketing, and supply chain data management.
   <br><br>
   <a href="https://linkedin.com/in/renzo-racadio-rrn" target="_blank>View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
-footer: false
+
 plugins:
 - jekyll-remote-theme
 #google_analytics: UA-000000-0 # your Google Analytics tracking ID here
