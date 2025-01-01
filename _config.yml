@@ -10,11 +10,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <strong>Quick Navigation</strong><br>
   📚 <a href="#education">Education</a><br>
   💼 <a href="#work-history">Work History</a><br>
-  🗂️ <a href="#project-overview">Project Overview</a><br>
+  🗂️ <a href="#project-overview">Project Overview</a><br><br>
 
   <strong>View My Projects</strong><br>
   🧠 <a href="#professional-projects">Professional Projects</a><br>
-  🛠️ <a href="#personal-projects">Personal Projects </a>&nbsp;<a href="https://lorenzoracadio.github.io/portfolio-personal_projects/" target="_blank">(Full Details)</a><br>
+  🛠️ <a href="#personal-projects">Personal Projects </a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 
