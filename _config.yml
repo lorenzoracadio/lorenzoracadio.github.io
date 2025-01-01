@@ -22,8 +22,8 @@ plugins:
 navigation:
   - name: Home
     link: /
-  - name: Projects
-    link: /projects/
+  - name: Professional Projects
+    link: /professional_projects/
   - name: About
     link: /about/
   - name: Contact
