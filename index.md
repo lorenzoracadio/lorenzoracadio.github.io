@@ -40,7 +40,9 @@ August 2014 - June 2018 | Manila, Philippines | GPA: 3.5
 *Balsam International Unlimited* | July 2018 - August 2019
 - Utilized digital marketing analytics tools and techniques, particularly search engine marketing, to optimize campaigns and achieve 15% annual revenue growth.
 - Created forecasting models for marketing spend, improving budget efficiency.
-  
+
+## Project Overview
+
 ## Professional Projects
 ### 1. Data Consolidation Initiatives
 > Company: Beiersdorf<br>
