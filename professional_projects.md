@@ -1,50 +1,31 @@
----
-layout: page
-title: Professional Projects
-permalink: /professional_projects/
----
+## This can be your internal website page / project page
 
-# 🛠️ Projects
+**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Here are some of the professional and personal projects I've worked on.
+### 1. Suggest hypotheses about the causes of observed phenomena
 
-## 📊 **Data Consolidation Initiative**
-**Company:** Beiersdorf  
-**Role:** Project Lead  
-**Launch Date:** Various  
-**Location:** Manila, Philippines  
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-- Automated data consolidation workflows using Python and Power Query.
-- Achieved a **75% reduction** in historical data processing time.
-- Implemented VBA scripts for report accuracy.
+```javascript
+if (isAwesome){
+  return true
+}
+```
 
-**Technologies:** Python, Excel (Power Query), VBA  
-[View Project on GitHub](https://github.com/lorenzoracadio/project-portfolio)
+### 2. Assess assumptions on which statistical inference will be based
 
----
+```javascript
+if (isAwesome){
+  return true
+}
+```
 
-## 🚀 **Airport-To-Anywhere**
-**Company:** Grab  
-**Role:** Project Co-Lead  
-**Launch Date:** December 2022  
-**Location:** Manila, Philippines  
+### 3. Support the selection of appropriate statistical tools and techniques
 
-- Provided additional livelihood for **1,500+ driver partners**.
-- Improved reliability metrics by **15%** through targeted incentives.
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-**Technologies:** SQL, Python, Project Management  
-[View Project on GitHub](https://github.com/lorenzoracadio/project-portfolio)
+### 4. Provide a basis for further data collection through surveys or experiments
 
----
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-## 🌟 **In-App Car Rental Products: Rent-by-Grab, GrabTours**
-**Company:** Grab  
-**Role:** Project Co-Lead (Rent-by-Grab) | Advisor (GrabTours)  
-**Launch Date:** May 2022 | June 2023  
-**Location:** Manila, Philippines  
-
-- Collaborated with Hertz to launch a **dedicated rental driver service**.
-- Partnered with the **Department of Tourism** for limited-time tours.
-
-**Technologies:** SQL, Python, Project Management  
-[View Project on GitHub](https://github.com/lorenzoracadio/project-portfolio)
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
