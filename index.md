@@ -1,5 +1,10 @@
 # Business Intelligence and Data Analytics
-Technical Skills: SQL, Python, Tableau, Excel
+
+6+ years of data analytics experience across e-commerce, transport technology, and FMCG. Obtained a Master’s degree from the University of International Business and Economics, Beijing.
+
+Featured Skills:<br>
+🖥️ SQL, Python, Tableau, Excel<br>
+🤝 Project and Stakeholder Management, Presentation, Report Building
 
 ## Education
 ### Master of Economics, International Business
