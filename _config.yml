@@ -14,7 +14,7 @@ description: > # your text below (remove <br> elements if you don't need line br
 
   <strong>View My Projects</strong><br>
   🧠 <a href="#professional-projects">Professional Projects</a><br>
-  🛠️ <a href="https://lorenzoracadio.github.io/portfolio-personal_projects/" target="_blank">Personal Projects</a><br>
+  🛠️ <a href="#personal-projects">Personal Projects </a><br><a href="https://lorenzoracadio.github.io/portfolio-personal_projects/" target="_blank">(Full Details)</a><br>
   
 remote_theme: pages-themes/minimal@v0.2.0
 
