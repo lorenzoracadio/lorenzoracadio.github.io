@@ -100,7 +100,7 @@ Location: Manila, Philippines<br>
 [*(See Full Details)*](https://lorenzoracadio.github.io/portfolio-personal_projects/){:target="_blank"}
 
 #### 1. Analyzing Educational Attainment and Household Size with Python
-- Summary: Using correlation and regression analysis techniques, the data showed that __educational attainment__ of the household head has a small, signficant impact on the __number of family members__.
+- Summary: Using correlation and regression analysis techniques, the data showed that __educational attainment__ of the household head has a small, signficant impact on the __number of family members__.<br>
 Code Snippet:<br>
 ![image](https://github.com/user-attachments/assets/81df48ea-c2a5-4776-912d-69e52e39a615)<br><br>
 Visualizing Result:<br>
