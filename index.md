@@ -102,5 +102,8 @@ Location: Manila, Philippines<br>
 #### 1. Analyzing Educational Attainment and Household Size with Python
 - Summary: Using correlation and regression analysis techniques, the data showed that __educational attainment__ of the household head has a small, signficant impact on the __number of family members__.
 
+![image](https://github.com/user-attachments/assets/01026da8-af25-4b99-a619-4a332311bb94)
+
+
 #### 2. Preparing and Visualizing Insurance Client Data Using SQL and Tableau
 - The data based on the actual client data from an insurance agent shows __client distribution by demographic__. Data was cleaned using SQL and visualized on Tableau.
