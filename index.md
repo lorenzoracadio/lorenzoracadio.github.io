@@ -101,7 +101,9 @@ Location: Manila, Philippines<br>
 
 #### 1. Analyzing Educational Attainment and Household Size with Python
 - Summary: Using correlation and regression analysis techniques, the data showed that __educational attainment__ of the household head has a small, signficant impact on the __number of family members__.
-![image](https://github.com/user-attachments/assets/81df48ea-c2a5-4776-912d-69e52e39a615)
+Code Snippet:<br>
+![image](https://github.com/user-attachments/assets/81df48ea-c2a5-4776-912d-69e52e39a615)<br><br>
+Visualizing Result:<br>
 ![image](https://github.com/user-attachments/assets/01026da8-af25-4b99-a619-4a332311bb94)
 
 
