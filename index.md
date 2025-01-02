@@ -42,8 +42,8 @@ August 2014 - June 2018 | Manila, Philippines | GPA: 3.5
 - Created forecasting models for marketing spend, improving budget efficiency.
 
 ## Project Overview<br>
-## Professional Projects
-### 1. Data Consolidation Initiatives
+### Professional Projects
+#### 1. Data Consolidation Initiatives
 > Company: Beiersdorf<br>
 Role: Project Lead  
 Launch Date: Various  
@@ -59,7 +59,7 @@ Location: Manila, Philippines<br>
 - Project Management
 - Stakeholder Management
 
-### 2. Airport-To-Anywhere
+#### 2. Airport-To-Anywhere
 > Company: Grab<br>
 Role: Project Co-Lead  
 Launch Date: December 2022  
@@ -75,7 +75,7 @@ Location: Manila, Philippines<br>
 - Project Management
 - Stakeholder Management (Multiple high-level stakeholders)
 
-### 3. In-App Car Rental Products: Rent-by-Grab, GrabTours
+#### 3. In-App Car Rental Products: Rent-by-Grab, GrabTours
 > Company: Grab<br>
 Role: Project Co-Lead (Rent-by-Grab) | Advisor (GrabTours)<br>
 Launch Date: May 2022 | June 2023<br>
@@ -96,11 +96,11 @@ Location: Manila, Philippines<br>
 - Project Management
 - Stakeholder Management (Multiple high-level stakeholders)
 
-## Personal Projects
+### Personal Projects
 [*(See Full Details)*](https://lorenzoracadio.github.io/portfolio-personal_projects/){:target="_blank"}
 
-### 1. Statistical Analysis of Educational Attainment on Household Size Using Python
+#### 1. Statistical Analysis of Educational Attainment on Household Size Using Python
 - Summary: Using correlation and regression analysis techniques, the data showed that __educational attainment__ of the household head has a small, signficant impact on the __number of family members__.
 
-### 2. Visualization and Analysis of Insurance Client Data Using Tableau and SQL
+#### 2. Visualization and Analysis of Insurance Client Data Using Tableau and SQL
 - The data based on the actual client data from an insurance agent shows __client distribution by demographic__. Data was cleaned using SQL and visualized on Tableau.
