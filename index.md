@@ -100,12 +100,16 @@ Location: Manila, Philippines<br>
 [*(See Full Details)*](https://lorenzoracadio.github.io/portfolio-personal_projects/){:target="_blank"}
 
 #### 1. Analyzing Educational Attainment and Household Size with Python
-- Summary: Using correlation and regression analysis techniques, the data showed that __educational attainment__ of the household head has a small, signficant impact on the __number of family members__.<br>
-Code Snippet:<br><br>
+- Summary: Using correlation and regression analysis techniques, the data showed that __educational attainment__ of the household head has a small, signficant impact on the __number of family members__.<br><br>
+Code Snippet:<br>
 ![image](https://github.com/user-attachments/assets/81df48ea-c2a5-4776-912d-69e52e39a615)<br><br>
-Visualizing Result:<br>
+Visualizing Using Matplotlib:<br>
 ![image](https://github.com/user-attachments/assets/01026da8-af25-4b99-a619-4a332311bb94)
 
 
 #### 2. Preparing and Visualizing Insurance Client Data Using SQL and Tableau
-- The data based on the actual client data from an insurance agent shows __client distribution by demographic__. Data was cleaned using SQL and visualized on Tableau.
+- The data based on the actual client data from an insurance agent shows __client distribution by demographic__. Data was cleaned using SQL and visualized on Tableau.<br><br>
+Code Snippet:<br>
+![image](https://github.com/user-attachments/assets/ec3cd5f7-e3ab-4c0b-b949-5788e9e52ea9)<br><br>
+Visualization Using Tableau (In Progress)
+
