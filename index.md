@@ -99,8 +99,8 @@ Location: Manila, Philippines<br>
 ### Personal Projects
 [*(See Full Details)*](https://lorenzoracadio.github.io/portfolio-personal_projects/){:target="_blank"}
 
-#### 1. Statistical Analysis of Educational Attainment on Household Size Using Python
+#### 1. Analyzing Educational Attainment and Household Size with Python
 - Summary: Using correlation and regression analysis techniques, the data showed that __educational attainment__ of the household head has a small, signficant impact on the __number of family members__.
 
-#### 2. Visualization and Analysis of Insurance Client Data Using Tableau and SQL
+#### 2. Preparing and Visualizing Insurance Client Data Using SQL and Tableau
 - The data based on the actual client data from an insurance agent shows __client distribution by demographic__. Data was cleaned using SQL and visualized on Tableau.
