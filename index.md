@@ -97,7 +97,7 @@ Location: Manila, Philippines<br>
 - Stakeholder Management (Multiple high-level stakeholders)
 
 ### Personal Projects
-[*(VIEW ALL)*](https://lorenzoracadio.github.io/portfolio-personal_projects/){:target="_blank"}
+[(VIEW ALL PROJECTS)](https://lorenzoracadio.github.io/portfolio-personal_projects/){:target="_blank"}
 
 #### 1. Analyzing Educational Attainment and Household Size with Python
 - Summary: Using correlation and regression analysis techniques, the data showed that __educational attainment__ of the household head has a small, signficant impact on the __number of family members__.<br><br>
