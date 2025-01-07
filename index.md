@@ -111,5 +111,7 @@ Visualizing Using Matplotlib:<br>
 - The data based on the actual client data from an insurance agent shows __client distribution by demographic__. Data was cleaned using SQL and visualized on Tableau.<br><br>
 Code Snippet:<br>
 ![image](https://github.com/user-attachments/assets/ec3cd5f7-e3ab-4c0b-b949-5788e9e52ea9)<br><br>
-Visualization Using Tableau (In Progress)
+Visualization using Tableau [here](https://tabsoft.co/4gHWfdO).<br>
+![image](https://github.com/user-attachments/assets/0c6e5412-461b-4ef2-b85c-268d11f489f2)
+
 
